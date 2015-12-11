@@ -20,3 +20,31 @@ h1 {
 	background-color: #0D8700
 	
 }
+
+#mainContent {
+	margin-left: 150px;
+	margin-right: 75px;
+}
+
+.centerMe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li a {
+	display: block;
+}
+
+
+
+
+
+
+
