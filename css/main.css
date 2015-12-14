@@ -65,6 +65,11 @@ nav ul li a:hover {
 	nav {
 		display: none
 	}
+	
+	#mainContent {
+	margin-left: 2%;
+	margin-right: 2%;
+	}
 }
 
 
