@@ -61,5 +61,14 @@ nav ul li a:hover {
 	color: #7EBFCB;
 }
 
+@media screen and (max-width: 600px) {
+	nav {
+		display: none
+	}
+}
+
+
+
+
 
 
