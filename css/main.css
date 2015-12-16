@@ -15,7 +15,7 @@ h1 {
 	border-color: #331F00;
 	margin-left: 10%;
 	margin-right: 10%;
-	padding-top: 15%;
+	padding-top: 2%;
 	padding-bottom: 2%;
 	background-color: #C68111;
 	
@@ -39,7 +39,7 @@ h2 {
 nav ul {
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+	padding-bottom: 2%;
 	background-color: #C68111;
 	width: 130px;
 	min-height: 100%;
