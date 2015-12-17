@@ -78,6 +78,10 @@ nav ul li a:hover {
 		min-height: auto;
 	}
 	
+	h1 {
+		padding-top: 3%;
+	}
+	
 	#mainContent {
 		margin-left: 2%;
 		margin-right: 2%;
